@@ -1,3 +1,3 @@
-# quick_task
+# QuickTask
 
-A new Flutter project.
+Task management app using Flutter and Back4App
